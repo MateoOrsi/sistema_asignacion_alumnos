@@ -59,6 +59,7 @@
             this.button3.TabIndex = 46;
             this.button3.Text = "SELECCIONAR ARCHIVO DESTINO";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button2
             // 
@@ -68,6 +69,7 @@
             this.button2.TabIndex = 45;
             this.button2.Text = "SELECCIONAR ARCHIVO ORIGEN";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // dataGridView1
             // 
@@ -88,6 +90,7 @@
             this.cmbcurso.Name = "cmbcurso";
             this.cmbcurso.Size = new System.Drawing.Size(121, 21);
             this.cmbcurso.TabIndex = 43;
+            this.cmbcurso.Click += new System.EventHandler(this.cmbcurso_SelectedIndexChanged);
             // 
             // label12
             // 
@@ -135,6 +138,7 @@
             this.button1.TabIndex = 33;
             this.button1.Text = "CARGAR";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // lblname
             // 
@@ -260,7 +264,7 @@
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label9);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Sistema Asignacion Alumnos";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
