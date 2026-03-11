@@ -121,5 +121,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\carga_datos.png" />
+    <Content Include="images\excel_inicial.PNG" />
+    <Content Include="images\final_excel.PNG" />
+    <Content Include="images\main_window.png" />
+    <Content Include="images\resultado_excel.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
