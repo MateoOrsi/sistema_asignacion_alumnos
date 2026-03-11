@@ -54,3 +54,20 @@ The program processes those choices and automatically assigns each student to th
 ## Author
 
 Developed as a practical solution to manage student specialization assignments in a technical school.
+
+## Application Screenshots
+
+### Main Window
+![Main Window](images/main_window.png)
+
+### Initial Excel
+![Excel Inicial](images/excel_inicial.png)
+
+### Data Load
+![Carga Datos](images/carga_datos.png)
+
+### Resulting Excel
+![Carga Datos](images/final_excel.png)
+
+### Changes on the Initial Excel
+![Carga Datos](images/resultado_excel.png)
