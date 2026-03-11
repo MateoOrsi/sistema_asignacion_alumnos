@@ -61,13 +61,13 @@ Developed as a practical solution to manage student specialization assignments i
 ![Main Window](sistema_asignacion_alumnos/images/main_window.png)
 
 ### Initial Excel
-![Excel Inicial](sistema_asignacion_alumnos/images/excel_inicial.png)
+![Excel Inicial](sistema_asignacion_alumnos/images/excel_inicial.PNG)
 
 ### Data Load
 ![Carga Datos](sistema_asignacion_alumnos/images/carga_datos.png)
 
 ### Resulting Excel
-![Carga Datos](sistema_asignacion_alumnos/images/final_excel.png)
+![Carga Datos](sistema_asignacion_alumnos/images/final_excel.PNG)
 
 ### Changes on the Initial Excel
-![Carga Datos](sistema_asignacion_alumnos/images/resultado_excel.png)
+![Carga Datos](sistema_asignacion_alumnos/images/resultado_excel.PNG)
